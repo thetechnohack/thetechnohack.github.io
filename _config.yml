@@ -1,8 +1,7 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Linux Hub
+title: Linux Hub | let's taste the linux flavour
+description: Linux Hub is a blog that widely covers linux and terminal. Simplicity and Clear Explanation is our motto. Free linux tutorials & learn linux. 
 tags:
   - blog
   - template
@@ -25,12 +24,13 @@ disqus_username: disqus_username
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: thetechnohack
+facebook_username: The Techno Hack
+telegram_username: thetechnohack
+# twitter_username: twitter_username
+instagram_username: thetechnohack
+# linkedin_username: linkedin_username
+# medium_username: medium_username
 
 
 # Posts Settings
