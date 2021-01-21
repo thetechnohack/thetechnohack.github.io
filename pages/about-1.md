@@ -7,7 +7,7 @@ permalink: /about/
 description: Some description.
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200">
+<img class="img-rounded" src="https://avatars.githubusercontent.com/u/67678753?s=460&u=b7ba872027f89d84796c5186cb9d6e7c0578c137&v=4" alt="Sumit Patidar" width="200">
 
 # About
 
