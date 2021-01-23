@@ -46,7 +46,7 @@ System.out.println("Hello, world!");
 }
 ```
 
-### C #
+### C#
 ```c#
 using System;
 class Program
