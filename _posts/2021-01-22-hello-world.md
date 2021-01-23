@@ -26,7 +26,9 @@ If Hello World does not work effectively within the framework, then it is likely
 ## History
 !["Hello, World!" program by Brian Kernighan (1978)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Hello_World_Brian_Kernighan_1978.jpg/220px-Hello_World_Brian_Kernighan_1978.jpg)
 
-Though the origins of Hello World remain somewhat unclear, the tradition of using the phrase "Hello, World!" as a test message was influenced by an example program in the seminal 1978 book <a href="https://archive.org/details/TheCProgrammingLanguageFirstEdition/page/n143/mode/2up">**The C Programming Language**</a>.The example program in that book prints "*hello, world*", and was inherited from a 1974 Bell Laboratories internal memorandum by *Brian Kernighan*, Programming in C: A Tutorial.
+Though the origins of Hello World remain somewhat unclear, the tradition of using the phrase "Hello, World!" as a test message was influenced by an example program in the seminal 1978 book <a href="https://archive.org/details/TheCProgrammingLanguageFirstEdition/page/n143/mode/2up">The C Programming Language</a>.
+
+The example program in that book prints "Hello, world", and was inherited from a 1974 Bell Laboratories internal memorandum by **Brian Kernighan**, Programming in C: A Tutorial.
 
 ## 'Hello, World' in different programming languages
 
