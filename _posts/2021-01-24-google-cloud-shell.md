@@ -5,7 +5,7 @@ title: Google Cloud Shell
 subtitle: Getting started with cloud shell environment.
 description: This post is all about how you can use a cloud based environment for your projects. We have talked about Google Cloud Shell, its features and limitations.
 image: https://res.cloudinary.com/morphy/image/upload/v1611416944/cloud%20shell/GCP_logo.png
-optimized_image: https://res.cloudinary.com/morphy/image/upload/v1611416944/cloud%20shell/GCP_logo.png
+optimized_image: https://res.cloudinary.com/morphy/image/upload/h_399,w_760,c_scale/v1611416944/cloud%20shell/GCP_logo.png
 category: cloud computing
 tags:
   - google
