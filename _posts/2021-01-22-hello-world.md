@@ -5,7 +5,7 @@ title: The History of 'Hello, World!'
 subtitle: Exploring the 'Hello World' program
 description: The 'Hello World' program is considered as the first program of anybody who starts learning to code.
 image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8riHOS7rcLPVfrvlyUCWu_a2HQR3sMaOQGg&usqp=CAU
-optimized_image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8riHOS7rcLPVfrvlyUCWu_a2HQR3sMaOQGg&usqp=CAU
+optimized_image: https://res.cloudinary.com/morphy/image/upload/h_399,w_760,c_scale/v1611582559/images_ofcmnk.png
 category: programming
 tags:
   - hello world
