@@ -1,5 +1,10 @@
 <footer>
     <p>
+      {% if site.telegram_username %}
+        <a href="https://t.me/{{ site.telegram_username }}" title="Telegram">
+          <svg><use xlink:href="#icon-telegram"></use></svg>
+        </a>
+      {% endif %}
       {% if site.github_username %}
         <a href="https://github.com/{{ site.github_username }}" title="Github">
           <svg><use xlink:href="#icon-github"></use></svg>
@@ -40,6 +45,9 @@
 </footer>
 
 {% assign social_urls = '' %}
+{% if site.telegram_username %}
+    {% assign social_urls = social_urls | append: '"https://t.me/' | append: site.telegram_username | append: '",' %}
+{% endif %}
 {% if site.github_username %}
     {% assign social_urls = social_urls | append: '"https://github.com/' | append: site.github_username | append: '",' %}
 {% endif %}
