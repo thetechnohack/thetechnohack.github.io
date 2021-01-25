@@ -27,6 +27,8 @@ Cloud Shell is an online development environment based on Google Cloud Platform 
 
 It runs on a Debian-Based virtual machine, that can be accessed with any browser, it makes it easy to manage your projects and resources without having to install them on your local system.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X1pg_1JnjeQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Cloud Shell Console
 Cloud Shell provides you a console with two main utilities:
 
