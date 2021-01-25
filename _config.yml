@@ -24,6 +24,7 @@ disqus_username: linuxhub
 
 # Social Media Settings
 # Remove the item if you don't need it
+telegram_username: thetechnohack
 github_username: thetechnohack
 facebook_username: The Techno Hack
 telegram_username: thetechnohack
@@ -57,7 +58,7 @@ collections:
   authors:
     output: true
 paginate_path: "/page/:num/"
-show_get_theme_btn: true
+show_get_theme_btn: false
 use_logo: false
 
 # Content paginator
