@@ -18,8 +18,8 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
-disqus_username: disqus_username
+email: sumitptdr2004@gmail.com
+disqus_username: linuxhub
 
 
 # Social Media Settings
@@ -101,4 +101,4 @@ exclude: [
 ]
 
 # Theme
-version: v3.1.0
+version: thetechnohack
