@@ -11,7 +11,7 @@ tags:
   - google
   - cloud
   - terminal
-author: Sumit
+author: sumitpatidar
 ---
 
 If you always hesitate with installing different software packages on your local system — this blog is for you.
@@ -27,13 +27,11 @@ Cloud Shell is an online development environment based on Google Cloud Platform 
 
 It runs on a Debian-Based virtual machine, that can be accessed with any browser, it makes it easy to manage your projects and resources without having to install them on your local system.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X1pg_1JnjeQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## Cloud Shell Console
 Cloud Shell provides you a console with two main utilities:
 
 ### 1.Cloud Shell Terminal
-![terminal image](https://res.cloudinary.com/morphy/image/upload/v1611416989/cloud%20shell/cloud_shell_terminal.gif)
+![terminal image](https://lh3.googleusercontent.com/bADt-LplQDbOD3LLXc8nB4zC5GUjV0MCieIWXOUd7j7gaHL2uDuPuZt3kYdl_KoclG4OHTQp26k=e14-w3004)
 
 Cloud Shell Terminal is a linux-based command-line tool for accessing your VM instances.
 
@@ -44,7 +42,7 @@ It comes with tonnes of pre-installed tool & google cloud sdk.
 you have full root privileges on your allocated VM and can even run sudo commands, if you need to.
 
 ### 2.Cloud Shell Editor
-![editor image](https://res.cloudinary.com/morphy/image/upload/v1611416989/cloud%20shell/cloud_shell_editor.gif)
+![editor image](https://lh3.googleusercontent.com/WhS3gyjmk-B3XGdOYtPsnCN6XWkbJPNk4WiTm6wF2RjjANdXcmKjzsPf6WPnvIYlWP_emz55lMYB=e14-w3004)
 
 Cloud Shell Editor has a GUI environment where you can develop, build, debug & deploy your apps and projects
 
