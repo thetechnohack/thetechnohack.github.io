@@ -10,7 +10,7 @@ category: programming
 tags:
   - hello world
   - programming
-author: Sumit
+author: sumitpatidar
 ---
 
 Traditionally, 'Hello, World' programs are used to illustrate how the process of coding works, as well as to ensure that a language or system is operating correctly.
