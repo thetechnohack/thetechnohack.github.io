@@ -6,10 +6,10 @@ display_name: Sumit Patidar
 position: Chief Editor
 bio: Just a Student.
 github_username: sumit-buddy
-# facebook_username: thiagorossener
-# twitter_username: thiagorossener
+# facebook_username: username
+# twitter_username: username
 instagram_username: sumit__ptdr
-# linkedin_username: sumit
-# medium_username: sumit
+# linkedin_username: username
+# medium_username: username
 ---
 
