@@ -1,7 +1,7 @@
 # Site Settings
-name: Linux Hub
-title: Linux Hub | let's taste the linux flavour
-description: Linux Hub is a blog that widely covers linux and terminal. Simplicity and Clear Explanation is our motto. Free linux tutorials & learn linux. 
+name: LinuxHub
+title: LinuxHub – Linux Tips, Tricks and Tutorials
+description: LinuxHub is a linux blog that covers basic to advanced topic and mainly focuses on easy and straightforward explanations.
 tags:
   - blog
   - template
