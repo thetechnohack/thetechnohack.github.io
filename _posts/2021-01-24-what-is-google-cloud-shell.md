@@ -1,11 +1,11 @@
 ---
 date: 2021-01-24 08:43:12
 layout: post
-title: Google Cloud Shell
+title: What is Google Cloud Shell?
 subtitle: Getting started with cloud shell environment.
-description: This post is all about how you can use a cloud based environment for your projects. We have talked about Google Cloud Shell, its features and limitations.
+description: Cloud Shell is an online development environment based on Google Cloud Platform (GCP).It runs on a Debian-Based virtual machine, that can be accessed with any browser, it makes it easy to manage your projects and resources without having to install them on your local system.
 image: https://res.cloudinary.com/morphy/image/upload/v1611416944/cloud%20shell/GCP_logo.png
-optimized_image: https://res.cloudinary.com/morphy/image/upload/h_399,w_760,c_scale/v1611416944/cloud%20shell/GCP_logo.png
+optimized_image: https://source.unsplash.com/wzVQp_NRIHg/760x399
 category: cloud computing
 tags:
   - google
