@@ -5,8 +5,8 @@ description: About Vivek
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="vivek" width="200">
+<img class="img-rounded" src="/site-logo.png" alt="profile image" width="200">
 
 # About
 Hello!
-I'm Vivek.
+This is LinuxHub
