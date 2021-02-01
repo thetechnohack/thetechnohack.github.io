@@ -14,8 +14,12 @@ menu:
     url: /
   - title: About
     url: /about
+  - title: Team
+    url: /staff
   - title: Contact
     url: /contact
+  - title: Tags
+    url: /tags
   - title: Feed
     url: /feed.xml
 email: sumitptdr2004@gmail.com
