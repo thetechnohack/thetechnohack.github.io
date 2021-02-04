@@ -28,6 +28,22 @@ footer {
     line-height: rem(25px);
   }
 
+  .footer-credits {
+    width: 100%;
+    text-align: center;
+    padding-top: 20px;
+    float:right;
+  }
+
+  .footer-lg {
+    text-align: center;
+  }
+
+  .footer-lg-img {
+     height:70px;
+     width: 70px;
+  }
+
   span {
     font-weight: 700;
   }
