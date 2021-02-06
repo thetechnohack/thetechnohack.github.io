@@ -22,6 +22,8 @@ menu:
     url: /tags
   - title: RSS Feed
     url: /feed.xml
+  - title: Sitemap
+    url: /sitemap.xml
 email: sumitptdr2004@gmail.com
 disqus_username: linuxhub
 
