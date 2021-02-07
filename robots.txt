@@ -1,4 +1,5 @@
 # robotstxt.org/
 
 User-agent: *
-Allow: /
+Disallow:
+Sitemap: https://linuxhub.ml/sitemap.xml/
